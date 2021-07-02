@@ -63,13 +63,14 @@ Your reminders:
 2. Do homework
 3. Clean room
 
+
 Enter: clear all
 ```
 ***
 ```
 Your reminders:
 
-No current reminders
+No current reminders.
 
 
 Enter: 
@@ -77,7 +78,7 @@ Enter:
 
 ## Close *Remember*
 
-To close *Remember*, just type `-q`:
+To close *Remember*, just type `q`:
 
 ```
 Your reminders:
@@ -85,7 +86,8 @@ Your reminders:
 No current reminders.
 
 
-Enter: -q
+Enter: q
 
 Closing...
+
 ```
