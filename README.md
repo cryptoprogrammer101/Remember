@@ -53,7 +53,7 @@ Enter:
 
 ### Clear reminders
 
-To clear all reminders, simply type `clear all`:
+To clear all reminders,  type `clear all` . You will be asked to confirm your action with a `y` or `n` :
 
 ```
 Your reminders:
@@ -69,6 +69,18 @@ Enter: clear all
 ```
 Your reminders:
 
+1. Take out the trash
+2. Do homework
+3. Clean room
+
+
+Enter: clear all
+Are you sure you want to clear all reminders (y/n): y
+```
+***
+```
+Your reminders:
+
 No current reminders.
 
 
@@ -77,7 +89,7 @@ Enter:
 
 ### Close *Remember*
 
-To close *Remember*, just type `q`:
+To close *Remember*, simply type `q`:
 
 ```
 Your reminders:
