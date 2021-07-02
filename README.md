@@ -54,7 +54,7 @@ Your reminders:
 Enter:
 ```
 
-## Clear reminders
+### Clear reminders
 
 To clear all reminders, simply type `clear all`:
 
@@ -78,7 +78,7 @@ No current reminders.
 Enter: 
 ```
 
-## Close *Remember*
+### Close *Remember*
 
 To close *Remember*, just type `q`:
 
