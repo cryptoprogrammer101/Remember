@@ -1,6 +1,7 @@
 # *Remember*
 
-With *Remember*, you'll never forget your reminders again! *Remember* lets you add and remove reminders, so you're always up-to-date.
+With *Remember*, you'll never forget your reminders again! *Remember* lets you add, remove, and clear reminders, so you're always up-to-date.
+
 
 ## How to Use *Remember*
 
