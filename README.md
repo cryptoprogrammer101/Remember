@@ -6,7 +6,7 @@ With *Remember*, you'll never forget your reminders again! *Remember* lets you a
 ## How to Use *Remember*
 
 
-## Add reminders
+### Add reminders
 
 To enter a reminder, simply type the title of the reminder, and press enter: 
 
