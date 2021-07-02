@@ -1,6 +1,6 @@
 # *Remember*
 
-### With *Remember*, you'll never forget your reminders again! *Remember* lets you add and remove reminders, so you're always up-to-date.
+With *Remember*, you'll never forget your reminders again! *Remember* lets you add and remove reminders, so you're always up-to-date.
 
 ## How to Use *Remember*
 
@@ -49,9 +49,9 @@ No current reminders.
 Enter:
 ```
 
-## Quit *Remember*
+## Close *Remember*
 
-To quit *Remember*, simply type "-q":
+To close *Remember*, simply type `-q`:
 
 ```
 Your reminders:
@@ -59,4 +59,6 @@ No current reminders.
 
 
 Enter: -q
+
+Closing...
 ```
