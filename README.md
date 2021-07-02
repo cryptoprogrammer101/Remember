@@ -29,32 +29,59 @@ Enter:
 
 ## Remove reminders
 
-To remove a reminder, just type `rm`, followed by the number of the reminder:
+To remove a reminder, just type `rm`, followed by the index of the reminder:
 
 ```
 Your reminders:
 
 1. Take out the trash
+2. Do homework
+3. Clean room
 
 
-Enter: rm 1
+Enter: rm 2
 ```
 ***
 ```
 Your reminders:
 
-No current reminders.
+1. Take out the trash
+2. Clean room
 
 
 Enter:
 ```
 
-## Close *Remember*
+## Clear reminders
 
-To close *Remember*, simply type `-q`:
+To clear all reminders, simply type `clear all`:
 
 ```
 Your reminders:
+
+1. Take out the trash
+2. Do homework
+3. Clean room
+
+Enter: clear all
+```
+***
+```
+Your reminders:
+
+No current reminders
+
+
+Enter: 
+```
+
+## Close *Remember*
+
+To close *Remember*, just type `-q`:
+
+```
+Your reminders:
+
 No current reminders.
 
 
