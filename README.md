@@ -29,6 +29,7 @@ Your reminders:
 Enter:
 ```
 
+
 ### Remove reminders
 
 To remove a reminder, just type `rm`, followed by the index of the reminder:
@@ -54,6 +55,7 @@ Your reminders:
 Enter:
 ```
 
+
 ### Clear reminders
 
 To clear all reminders, simply type `clear all`:
@@ -77,6 +79,7 @@ No current reminders.
 
 Enter: 
 ```
+
 
 ### Close *Remember*
 
