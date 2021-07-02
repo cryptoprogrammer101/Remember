@@ -12,7 +12,7 @@ To enter a reminder, simply type the title of the reminder, and press enter:
 ```
 Your reminders:
 
-No current reminders
+No current reminders.
 
 
 Enter: Take out the trash 
@@ -89,5 +89,4 @@ No current reminders.
 Enter: q
 
 Closing...
-
 ```
