@@ -3,6 +3,7 @@
 With *Remember*, you'll never forget your reminders again! *Remember* lets you add, remove, and clear reminders, so you're always up-to-date.
 
 
+
 ## How to Use *Remember*
 
 
@@ -28,7 +29,7 @@ Your reminders:
 Enter:
 ```
 
-## Remove reminders
+### Remove reminders
 
 To remove a reminder, just type `rm`, followed by the index of the reminder:
 
